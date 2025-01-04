@@ -1,59 +1,78 @@
-# Hola! Me presento, soy Ezequiel Vallejos Lugo 👋
-### Tecnico en Programacion y Tecnico Radiologo
+# ✨ Hola, soy Ezequiel Vallejos Lugo 👋
 
-Estudiante universitario de la carrera de Tecnicatura Universitaria en Programacion y graduado en la carrera de Técnico Radiólogo Universitario. 
-Actualmente estoy participando en el programa de Desarrollo Web Full Stack por parte de Fundacion Pescar en asociación con Fundacion Karuna y Valtech.
-Me caracterizo por mi responsabilidad y compromiso, lo que me impulsa a estar siempre actualizado en las últimas tendencias del sector. Busco oportunidades
-para aplicar mis conocimientos y habilidades en un entorno IT dinámico y en constante evolución.
+💻 **Desarrollador Web Full Stack con Especialización en Backend**  
+🚀 **Comprometido con la innovación tecnológica, la resolución de problemas y el aprendizaje continuo**
 
-> 👥 [LinkedIn](www.linkedin.com/in/ezequiel-vallejos-lugo) Mi red profesional
-> 
-> 📬 [Correo electronico](eze0072@gmail.com) Mi correo personal
+---
 
-## Experiencia laboral
-Soporte Técnico - Servicio integral de limpieza SRL 'Limpiarte'
-01/2024 - 03/2024
-<ul>
-  <li>
-    Elaboré y documenté procedimientos operativos para diversas áreas de la empresa, mejorando la eficiencia y la comunicación
-  </li>
-  <li>
-    Brindé soporte técnico de primer nivel a usuarios internos y externos, resolviendo sus consultas y problemas de manera eficiente
-  </li>
-</ul>
+## 🎯 Acerca de mí
 
-Técnico Radiólogo - Hospital Británico Sede Central
-12/2023 - 01/2024
-<ul>
-  <li>
-    Asistí en cirugías quirúrgicas, contribuyendo a la realización exitosa de procedimientos medicos
-  </li>
-  <li>
-    Adquirí un profundo conocimiento en el manejo de equipos médicos especializados, como Arco en C, lo que permitió optimizar los tiempos de procedimiento
-  </li>
-</ul>
+Soy un profesional del desarrollo web con un sólido background en tecnologías backend y manejo eficiente de bases de datos SQL y NoSQL. Mi experiencia incluye la participación en proyectos colaborativos como la hackathon **Code for Good de JPMorgan**, así como la finalización de una **beca de desarrollo web full stack** proporcionada por **Fundación Pescar** y **Valtech**. Actualmente, mi objetivo es profundizar mis conocimientos en **arquitecturas backend escalables** y **sistemas distribuidos**.
 
-Técnico Radiólogo Universitario - Hospital General de Agudos Dr. Juan A. Fernández
-05/2021 - 01/2022
-<ul>
-  <li>
-    Colaboré de manera efectiva con equipos multidisciplinarios para garantizar la continuidad de los servicios durante la pandemia de COVID-19
-  </li>
-  <li>
-    Adquirí experiencia en el manejo de equipos especializados, como máquinas de rayos X, lo que me permitió desarrollar habilidades de resolución de problemas y atención al detalle
-  </li>
-</ul>
-<!--
-**ezevallelugo/ezevallelugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Lenguajes de Programación** | **Frameworks y Librerías** | **Bases de Datos**     | **Herramientas de Desarrollo** |
+|----------------------------- |-------------------------- |---------------------- |-------------------------------- |
+| C#, Python, Java             | Node.js, Express.js       | MongoDB, MySQL, SQL Server | Git, Docker, Postman           |
+| JavaScript, HTML, CSS        | React, Next.js            | Firebase              | Visual Studio Code, GitHub      |
+
+---
+
+## 📚 Certificaciones y Cursos
+
+- 🎓 **Beca Full Stack Developer** - Fundación Pescar y Valtech  
+- 🏅 **Participante en Hackathon "Code for Good"** - JPMorgan  
+- 📖 **Formación en Inteligencia Artificial (IA)** - Cursos en progreso  
+- 💻 **Cursos en plataformas educativas** - Coursera y EducacionIT  
+
+---
+
+## 📈 Experiencia Laboral
+
+### 🧑‍💻 Soporte Técnico y Desarrollador Universitario
+
+- Proporcioné soporte técnico a usuarios finales, resolviendo problemas relacionados con hardware y software.
+- Desarrollé aplicaciones en **C#**, **SQL** y **Python** para automatizar procesos internos.
+- Administré bases de datos, optimizando consultas SQL y mejorando el rendimiento de los sistemas.
+
+### 🤖 Proyecto de E-commerce para Valtech
+
+- Desarrollé una plataforma de comercio electrónico centrada en la compra y venta de productos de **indumentaria y accesorios reciclables**.
+- Implementé filtros avanzados de productos y un sistema de autenticación de usuarios.
+- Trabajé en equipo aplicando metodologías ágiles, asegurando entregas rápidas y de calidad.
+
+### 🏆 Hackathon - Code for Good
+
+- Participé en el desarrollo de soluciones tecnológicas innovadoras para ONGs.
+- Presenté los proyectos ante líderes de JPMorgan, destacando por la creatividad y viabilidad de las propuestas.
+
+---
+
+## 📬 Contacto
+
+📧 **Correo:** [eze0072@gmail.com](mailto:eze0072@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/ezequiel-vallejos-lugo](https://www.linkedin.com/in/ezequiel-vallejos-lugo)  
+🌐 **Portafolio:** En desarrollo  
+🐙 **GitHub:** [https://github.com/ezevallelugo](https://github.com/ezevallelugo)  
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🛒 E-commerce ECODONO
+
+Desarrollo de una plataforma de comercio electrónico enfocada en la compra y venta de **productos reciclados y de segunda mano**, con una sección dedicada a donaciones para causas sociales.
+
+🔗 [https://github.com/ezevallelugo/fp-proyecto-integrador.git](https://github.com/ezevallelugo/fp-proyecto-integrador.git)
+
+---
+
+## 🚀 Objetivos a Futuro
+
+- Especializarme en el desarrollo backend utilizando **Java** y **Node.js**.
+- Profundizar mis conocimientos en **Machine Learning** y **sistemas distribuidos**.
+- Trabajar en proyectos colaborativos de gran escala y contribuir a soluciones innovadoras en el ámbito tecnológico.
+
+---

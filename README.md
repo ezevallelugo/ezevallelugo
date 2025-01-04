@@ -6,6 +6,10 @@ Actualmente estoy participando en el programa de Desarrollo Web Full Stack por p
 Me caracterizo por mi responsabilidad y compromiso, lo que me impulsa a estar siempre actualizado en las últimas tendencias del sector. Busco oportunidades
 para aplicar mis conocimientos y habilidades en un entorno IT dinámico y en constante evolución.
 
+> 👥 [LinkedIn](www.linkedin.com/in/ezequiel-vallejos-lugo) Mi red profesional
+> 
+> 📬 [Correo electronico](eze0072@gmail.com) Mi correo personal
+
 ## Experiencia laboral
 Soporte Técnico - Servicio integral de limpieza SRL 'Limpiarte'
 01/2024 - 03/2024
